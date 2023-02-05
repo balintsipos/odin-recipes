@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    border: 5px solid;
+    padding: 10px;
+    margin: 10px;
+    border-color: indianred;
+}
+
+ul {
+    background-color: lightgrey;
+}
+
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightsalmon;
+    font-size: 25px;
+    text-align: right;
+    list-style-type: lower-greek;
+}
